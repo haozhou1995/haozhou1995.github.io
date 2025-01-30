@@ -12,7 +12,7 @@ title                    : "Hao Zhou / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hao Zhou"
 description              : &description "personal description"
-url                      : "https://haozhou1995.github.io"
+url                      : https://haozhou1995.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haozhou1995/haozhou.github.io"
 
