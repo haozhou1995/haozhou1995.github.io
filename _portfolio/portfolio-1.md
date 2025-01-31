@@ -26,4 +26,8 @@ To this end, we have proposed multiple solutions, which can be found in the foll
 
 * **H. Zhou**, C. Hu, D. Yuan, Y. Yuan, D. Wu, X. Liu, Z. Han, and C. Zhang, “Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning,” ***IEEE Wireless Communications Letters***, pp.1-5, Dec. 2024.
 
+* **H. Zhou**, C. Hu, D. Yuan, Y. Yuan, D. Wu, X. Liu, and C. Zhang, “Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control,” arXiv:2408.00214, pp.1-5, Aug. 2024.
 
+* Z. Yan, **H. Zhou**, H. Tabassum, and X. Liu, “Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving,” arXiv:2410.08854, pp.1-5, Oct. 2024.
+
+* C. Hu, **H. Zhou**, D. Wu, X. Chen, J. Yan, and X. Liu, “Self-Refined Generative Foundation Models for Wireless Traffic Prediction,” arXiv:2408.10390, pp.1-5, Aug. 2024. 
