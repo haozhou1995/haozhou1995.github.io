@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url:  "../files/CV.pdf"   #https://github.com/haozhou1995/haozhou1995.github.io/blob/master/files/CV.pdf  # (../files/CV.pdf)     #/cv/ 
+  - title: "[CV](../files/CV.pdf)"
+    url:  #"../files/CV.pdf"   #https://github.com/haozhou1995/haozhou1995.github.io/blob/master/files/CV.pdf  # (../files/CV.pdf)     #/cv/ 
     
   #- title: "Guide"
     #url: /markdown/
