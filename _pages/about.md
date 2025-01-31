@@ -18,5 +18,5 @@ I am also interested in large language model (LLM)-enabled communication network
 
 I have published more than 40 peer-reviewed papers, e.g., IEEE Wireless Communications, IEEE Trans. Smart Grid, and IEEE Communications Survey & Tutorials. One of my papers received the Best Paper Award at the 2023 IEEE ICC conference (one of 16 papers from 2778 submissions), which is one of the flagship conferences in communication society. 
 I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my contributions to transfer learning-enabled network slicing. My PhD Thesis entitled “ML-Based Optimization of Large-Scale Systems: Case Study in Smart Microgrids and 5G RAN” won the 2023 Faculty of Engineering’s Best Doctoral Thesis Award at University of Ottawa (1st position among all PhD graduates of the engineering faculty in 2023).
-During my Ph.D. studies, I have co-supervised 3 junior PhD students and 2 Master students, ranging from making research plans, coding and debugging, to writing and revising papers.
+
 
