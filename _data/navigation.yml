@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "[CV](../files/CV.pdf)"
-    url:  #https://drive.google.com/file/d/1aKban8jwYl3ljWXlaohFa5Kn8agxV8kc/view?usp=sharing  # (../files/CV.pdf)     #/cv/ 
+  - title: "CV"
+    url:  https://drive.google.com/file/d/1aKban8jwYl3ljWXlaohFa5Kn8agxV8kc/view?usp=sharing  # (../files/CV.pdf)     #/cv/ 
     
   #- title: "Guide"
     #url: /markdown/
