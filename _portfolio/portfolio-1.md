@@ -18,9 +18,12 @@ Specifically, it aims to utilize LLMs to develop a series of solutions for the n
 
 * **How to use LLMs efficiently for cellular network management**? LLMs can be used in various approaches, e.g., pre-training, fine-tuning, or prompting. Identifying the most efficient approach to LLM usage is crucial to handle diverse network management tasks.
 
-To this end, we have proposed multiple solutions, which can be found in:
+To this end, we have proposed multiple solutions, which can be found in the following publications. All publications can be download in my [Google Scholar](https://scholar.google.com/citations?user=AVx1JkgAAAAJ&hl=zh-CN)
 
 * **H. Zhou**, C. Hu, Y. Yuan, Y. Cui, Y. Jin, C. Chen, H. Wu, D. Yuan, L. Jiang, D. Wu, X. Liu, C. Zhang, X. Wang, and J. Liu, “Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities,” ***IEEE Communications Survey & Tutorials***, pp.1-52, Sep. 2024.
 
-* 
+* **H. Zhou**, C. Hu, D. Yuan, Y. Yuan, D. Wu, X. Chen, H. Tabassum, X. Liu, “Large Language Models (LLMs) for Wireless Networks: An Overview from the Prompt Engineering Perspective,” ***IEEE Wireless Communications***, pp.1-10, Jan. 2025.
+
+* **H. Zhou**, C. Hu, D. Yuan, Y. Yuan, D. Wu, X. Liu, Z. Han, and C. Zhang, “Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning,” ***IEEE Wireless Communications Letters***, pp.1-5, Dec. 2024.
+
 
