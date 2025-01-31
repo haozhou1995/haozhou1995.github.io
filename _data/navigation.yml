@@ -21,7 +21,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url:  https://drive.google.com/file/d/1aKban8jwYl3ljWXlaohFa5Kn8agxV8kc/view?usp=sharing  #/cv/ 
+    url: /cv/   #https://haozhou1995.github.io/files/CV.pdf   #https://drive.google.com/file/d/1aKban8jwYl3ljWXlaohFa5Kn8agxV8kc/view?usp=sharing  #/cv/ 
     
   #- title: "Guide"
     #url: /markdown/
