@@ -11,7 +11,7 @@ collection: portfolio
 <figure>
   <img
   src="/images/tccn.png"
-  alt="The beautiful MDN logo.">
+  alt="**Deep Transfer Learning-enabled Network Edge Slicing**.">
   <figcaption>MDN Logo</figcaption>
 </figure>
 
