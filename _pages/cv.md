@@ -15,5 +15,5 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
   
-My full CV is avaiable at [CV](../files/CV.pdf). 
+My full CV is avaiable at [CV](https://haozhou1995.github.io/files/CV.pdf). 
 
