@@ -21,6 +21,8 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2025 Feb, I will present an invited talk on "**Large Language Models for Next Generation Wireless Networks**" at Department of Engineering, King's College London, UK. 
+  
 * 2025 Feb, our paper "**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**" has been accepted by ***IEEE Wireless Communications Letters***!
 
 * 2025 Jan, our tutorial proposal "𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥𝐬 (𝐆𝐅𝐌𝐬) 𝐅𝐨𝐫 𝐍𝐞𝐱𝐭𝐆 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬: 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬, 𝐊𝐞𝐲 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬, 𝐚𝐧𝐝 𝐅𝐮𝐭𝐮𝐫𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧𝐬" has been accepted as a half-day tutorial at the 2025 IEEE International Conference on Communications (ICC). 
