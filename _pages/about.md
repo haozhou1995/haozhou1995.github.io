@@ -21,6 +21,8 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2025 Feb, our paper "**A Hierarchical DRL Approach for Resource Optimization in Multi-RIS Multi-Operator Networks**" has been accepted by ***IEEE Trans. on Wireless Communications***!
+  
 * 2025 Feb, I will present an invited talk on "**Large Language Models for Next Generation Wireless Networks**" at Department of Engineering, King's College London, UK. 
   
 * 2025 Feb, our paper "**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**" has been accepted by ***IEEE Wireless Communications Letters***!
