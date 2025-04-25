@@ -21,6 +21,10 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2025 Apr, our paper "**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**" has been accepted by ***IEEE Trans. on Wireless Communications***!
+
+* 2025 Mar, our paper "**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**" has been accepted by ***2025 IEEE ICC Workshop***!
+  
 * 2025 Feb, our paper "**A Hierarchical DRL Approach for Resource Optimization in Multi-RIS Multi-Operator Networks**" has been accepted by ***IEEE Trans. on Wireless Communications***!
   
 * 2025 Feb, I will present an invited talk on "**Large Language Models for Next Generation Wireless Networks**" at Department of Engineering, King's College London, UK. 
