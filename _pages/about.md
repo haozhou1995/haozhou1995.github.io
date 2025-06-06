@@ -21,10 +21,10 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
-* 2025 Jun, we have three papers accepted by the 2025 ICML Workshop on ML4Wireless:<br>
-  “**Prompting Wireless Networks: Reinforced In-Context Learning for Power Control**”<br>
-  “**Hierarchical Debate-Based Large Language Model (LLM) for Complex Task Planning of 6G Network Management**”, and<br>
-  “**Hierarchical and Collaborative LLM-Based Control for Multi-UAV Motion and Communication in Integrated Terrestrial and Non-Terrestrial Networks**”!<br> Congratulations to all authors and collaborators! We are actively exploring top AI/ML conferences! 
+* 2025 Jun, we have 3 papers accepted by the 2025 **International Conference on Machine Learning (ICML)** Workshop on Machine Learning for Wireless Communication and Networks:<br>
+  Paper 1: “**Prompting Wireless Networks: Reinforced In-Context Learning for Power Control**”<br>
+  Paper 2: “**Hierarchical Debate-Based Large Language Model (LLM) for Complex Task Planning of 6G Network Management**”<br>
+  Paper 3: “**Hierarchical and Collaborative LLM-Based Control for Multi-UAV Motion and Communication in Integrated Terrestrial and Non-Terrestrial Networks**”!<br> Congratulations to all authors and collaborators! We are actively exploring top AI/ML conferences! 
 
   
 * 2025 Jun, I will give a tutorial about "𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥𝐬 (𝐆𝐅𝐌𝐬) 𝐅𝐨𝐫 𝐍𝐞𝐱𝐭𝐆 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬: 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬, 𝐊𝐞𝐲 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬, 𝐚𝐧𝐝 𝐅𝐮𝐭𝐮𝐫𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧𝐬" on 2025 IEEE ICC, Montreal, Jun. 8!
