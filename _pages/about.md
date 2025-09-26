@@ -23,9 +23,9 @@ News and Updates
 ======
 * 2025 Oct, I will start the **Senior Research Engineer** position in Samsung Research America.
 
-  
 * 2025 Sep, our paper “**LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks**,” is accepted by ***IEEE Internet of Things Journal***. This work explores how LLM-enabled in-context learning can be used to optimize UAV operation for sensor data collection. 
 
+* 2025 Sep, served as the Program Committee (PC) member of AI4NextG Workshop at **NeurIPS** 2025. 
 
 * 2025 Jun, we have 3 papers accepted by the 2025 **International Conference on Machine Learning (ICML)** Workshop on Machine Learning for Wireless Communication and Networks:<br>
   Paper 1: “**Prompting Wireless Networks: Reinforced In-Context Learning for Power Control**”<br>
