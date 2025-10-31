@@ -4,6 +4,12 @@
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started
+1. **configure will decide the left part of the page**
+2. **You can update your CV in files**
+3. **_data, navigation is the highlevel map**
+4. **Pages about.md is the main page**
+
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
