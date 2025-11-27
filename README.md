@@ -5,4 +5,5 @@
 2. **You can update your CV in files**
 3. **_data, navigation is the highlevel map**
 4. **Pages about.md is the main page**
+5. service and awards in _pages/teaching file
 
