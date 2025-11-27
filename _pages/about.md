@@ -21,6 +21,10 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2025 Dec, I will give a talk on 6GIC-CLICK meeting in Institute for Communication Systems (ICS) at University of Surrey. The talk will introduce how LLMs can revolutionize the 𝐰𝐚𝐲 𝐨𝐟 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝 6𝐆 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐬, 𝐫𝐚𝐧𝐠𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐝 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞-𝐆𝐫𝐨𝐮𝐧𝐝𝐞𝐝 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠. 
+
+* 2025 Nov, our paper “**Self-Refined Generative Foundation Models for Wireless Traffic Prediction**,” has been accepted by IEEE Transactions on Vehicular Technology. Our work investigates the usage of LLMs for network traffic prediction. It reveals that self-refined generative foundation models can efficiently improve their prediction performance with minimal human intervention.
+
 * 2025 Oct, I will start the **Senior Research Engineer** position in Samsung Research America.
 
 * 2025 Sep, our paper “**LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks**,” is accepted by ***IEEE Internet of Things Journal***. This work explores how LLM-enabled in-context learning can be used to optimize UAV operation for sensor data collection. 
