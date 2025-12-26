@@ -6,4 +6,5 @@
 3. **_data, navigation is the highlevel map**
 4. **Pages about.md is the main page**
 5. service and awards in _pages/teaching file
+6. _data/navigation.yml  high level navigation
 
