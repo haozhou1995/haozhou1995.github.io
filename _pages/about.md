@@ -21,9 +21,10 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
-* 2025 Dec, our IEEE ComSoc Best Readings "**Generative Foundation Models for NextG Communication Networks**" is now avaiable at:  https://www.comsoc.org/publications/best-readings/generative-foundation-models-nextg-communication-networks 
+* 2025 Dec, our IEEE ComSoc Best Readings "**Generative Foundation Models for NextG Communication Networks**" is now available [here](https://www.comsoc.org/publications/best-readings/generative-foundation-models-nextg-communication-networks).
+
   
-* 2025 Dec, attended the 2025 IEEE Globecom and present our paper "Understanding 6G through Language Models: A Case Study on LLM-aided Structured Entity Extraction in Telecom Domain" in Taipei, Taiwan.
+* 2025 Dec, attended the 2025 IEEE Globecom and present our paper "**Understanding 6G through Language Models: A Case Study on LLM-aided Structured Entity Extraction in Telecom Domain**" in Taipei, Taiwan.
 
 * 2025 Dec, I will give a talk on 6GIC-CLICK meeting in Institute for Communication Systems (ICS) at University of Surrey. The talk will introduce “**Understanding 6G through Language Models: From Structured Knowledge Extraction to Knowledge-Grounded Reasoning**”. 
 
