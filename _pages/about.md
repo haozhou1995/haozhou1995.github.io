@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Senior Research Engineer in Samsung Research America. I am previously a Postdoctoral Researcher at the School of Computer Science, McGill University, Canada, supervised by [Dr. Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html). I completed my PhD degree at University of Ottawa, Canada, from 2019 to 2023, and my supervisor is [Dr. Melike Erol-Kantarci](https://www.site.uottawa.ca/~merolka2/). Before that, I completed my B.Eng. in Huazhong University of Sci. and Tech. in 2016, and M.Eng. in Tianjin University in 2019, China. 
+I am currently a Senior Research Engineer at Samsung Research America. I was previously a Postdoctoral Researcher at the School of Computer Science, McGill University, Canada, supervised by [Dr. Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html). I completed my PhD degree at University of Ottawa, Canada, from 2019 to 2023, and my supervisor is [Dr. Melike Erol-Kantarci](https://www.site.uottawa.ca/~merolka2/). Before that, I completed my B.Eng. in Huazhong University of Sci. and Tech. in 2016, and M.Eng. in Tianjin University in 2019, China. 
 
 About My Research 
 ======
