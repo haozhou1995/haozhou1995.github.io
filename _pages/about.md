@@ -21,7 +21,10 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
-* 2026 Jan, We are pleased to announce W22 – "**𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 𝐞𝐧𝐚𝐛𝐥𝐞𝐝 𝐆𝐞𝐧𝐀𝐈 𝐟𝐨𝐫 𝐒𝐦𝐚𝐫𝐭 𝐑𝐚𝐝𝐢𝐨 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬**", 𝐚 𝐰𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐭𝐫𝐚𝐜𝐤 𝐨𝐟 𝐕𝐓𝐂 2026-𝐒𝐩𝐫𝐢𝐧𝐠, which will be held in Nice, France 9 - 12 June 2026 [here](https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w22-llm-enabled-6g-smart-radio-control-and-distributed-edge-computing/).
+*2026 Feb, two papers are accepted on the same day! **Frsicl: Llm-enabled in-context learning flight resource allocation for fresh data collection in UAV-assisted wildfire monitoring** is accepted by ***IEEE Internet of Things Journal***, and **From prompts to protection: Large language model-enabled in-context learning for smart public safety UAV** by ***IEEE Wireless Communications Magazine***! A wonderful day on Chinese New Year!
+
+
+* 2026 Jan, we are pleased to announce W22 – "**𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 𝐞𝐧𝐚𝐛𝐥𝐞𝐝 𝐆𝐞𝐧𝐀𝐈 𝐟𝐨𝐫 𝐒𝐦𝐚𝐫𝐭 𝐑𝐚𝐝𝐢𝐨 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬**", 𝐚 𝐰𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐭𝐫𝐚𝐜𝐤 𝐨𝐟 𝐕𝐓𝐂 2026-𝐒𝐩𝐫𝐢𝐧𝐠, which will be held in Nice, France 9 - 12 June 2026 [here](https://events.vtsociety.org/vtc2026-spring/conference-sessions/workshops-currently-available/w22-llm-enabled-6g-smart-radio-control-and-distributed-edge-computing/).
 
 * 2025 Dec, our IEEE ComSoc Best Readings "**Generative Foundation Models for NextG Communication Networks**" is now available [here](https://www.comsoc.org/publications/best-readings/generative-foundation-models-nextg-communication-networks).
 
