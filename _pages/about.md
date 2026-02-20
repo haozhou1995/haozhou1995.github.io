@@ -21,6 +21,9 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2026 Feb,"**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**" is accepted by ***IEEE Wireless Communications Magazine***". This work proposed KG-RAG, a dynamic and explainable framework that tightly integrates LLMs with telecom Knowledge Graphs (KGs). 
+  
+
 * 2026 Feb, two papers are accepted on the same day! <br>"**Frsicl: Llm-enabled in-context learning flight resource allocation for fresh data collection in UAV-assisted wildfire monitoring**" is accepted by ***IEEE Internet of Things Journal***,<br>
 and "**From prompts to protection: Large language model-enabled in-context learning for smart public safety UAV** accepted by ***IEEE Wireless Communications Magazine***" <br>
 A wonderful day on Chinese New Year!
