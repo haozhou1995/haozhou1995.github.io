@@ -21,6 +21,9 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2026 Jan, we are pleased to announce the International Workshop on **Industrial Physical AI will be held at ACM International Conference on Multimedia (ACM MM 2026)** in Rio de Janeiro, Nov 10–14, 2026. [here](https://mm.jiangxingai.com/).
+
+  
 * 2026 Feb,"**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**" is accepted by ***IEEE Wireless Communications Magazine***". This work proposed KG-RAG, a dynamic and explainable framework that tightly integrates LLMs with telecom Knowledge Graphs (KGs). 
   
 
