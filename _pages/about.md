@@ -21,8 +21,9 @@ I also received the 2023 IEEE ComSoc CSIM TC Best Journal Paper Award for my con
 
 News and Updates 
 ======
+* 2026 Apr, I will join the editoral board of **IEEE Open Journal of the Communications Society** as an associate editor [here](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board).  
 
-* The IEEE WCNC will be held from 13 to 16 April 2026 in Kuala Lumpur, Malaysia. I will be presenting a tutorial for **𝐄𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐀𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 6𝐆: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥𝐬, 𝐚𝐧𝐝 𝐓𝐞𝐥𝐞𝐜𝐨𝐦 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬** together with Prof. Chuan Heng Foh (University of Surrey, UK) and Prof. Mahdi Boloursaz Mashhadi (University of Surrey, UK).
+* 2026 Apr, The IEEE WCNC will be held from 13 to 16 April 2026 in Kuala Lumpur, Malaysia. I will be presenting a tutorial for **𝐄𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐀𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 6𝐆: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥𝐬, 𝐚𝐧𝐝 𝐓𝐞𝐥𝐞𝐜𝐨𝐦 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬** together with Prof. Chuan Heng Foh (University of Surrey, UK) and Prof. Mahdi Boloursaz Mashhadi (University of Surrey, UK).
 
 * 2026 Jan, we are pleased to announce the International Workshop on **Industrial Physical AI will be held at ACM International Conference on Multimedia (ACM MM 2026)** in Rio de Janeiro, Nov 10–14, 2026. [here](https://mm.jiangxingai.com/).
 
