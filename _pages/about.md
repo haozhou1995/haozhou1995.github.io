@@ -21,9 +21,9 @@ I also received the **2023 IEEE ComSoc CSIM TC Best Journal Paper Award** for my
 
 News and Updates 
 ======
-* 2026 Aug, our paper "**Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach**" has been accepted for presentation at the **2026 IEEE Global Communications Conference (GLOBECOM)**. [here](https://arxiv.org/pdf/2607.18604).
+* 2026 Aug, our paper "**Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach**" is accepted for presentation at ***2026 IEEE Global Communications Conference (GLOBECOM)***. This work proposes a hierarchical LLM-driven framework that integrates global strategic reasoning with real-time UAV navigation and handover control, improving flight safety and system throughput. [here](https://arxiv.org/pdf/2607.18604).
 
-* 2026 Aug, our paper "**Diffusion Models for Smarter UAVs: Decision-Making and Modeling**" has been accepted by ***IEEE Vehicular Technology Magazine***. [here](https://arxiv.org/abs/2501.05819).
+* 2026 Aug, our paper "**Diffusion Models for Smarter UAVs: Decision-Making and Modeling**" is accepted by ***IEEE Vehicular Technology Magazine***. This work explores how diffusion models can be integrated with reinforcement learning and digital twins to alleviate data scarcity and improve decision-making and dynamic modeling for UAV communications. [here](https://arxiv.org/abs/2501.05819).
 
 * 2026 Apr, I will join the editoral board of **IEEE Open Journal of the Communications Society** as an associate editor [here](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board).  
 
