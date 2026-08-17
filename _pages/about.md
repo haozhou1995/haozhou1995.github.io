@@ -21,6 +21,10 @@ I also received the **2023 IEEE ComSoc CSIM TC Best Journal Paper Award** for my
 
 News and Updates 
 ======
+* 2026 Aug, our paper "**Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach**" has been accepted for presentation at the **2026 IEEE Global Communications Conference (GLOBECOM)**. [here](https://arxiv.org/pdf/2607.18604).
+
+* 2026 Aug, our paper "**Diffusion Models for Smarter UAVs: Decision-Making and Modeling**" has been accepted by ***IEEE Vehicular Technology Magazine***. [here](https://arxiv.org/abs/2501.05819).
+
 * 2026 Apr, I will join the editoral board of **IEEE Open Journal of the Communications Society** as an associate editor [here](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board).  
 
 * 2026 Apr, The IEEE WCNC will be held from 13 to 16 April 2026 in Kuala Lumpur, Malaysia. I will be presenting a tutorial for **𝐄𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐀𝐈 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐟𝐨𝐫 6𝐆: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥𝐬, 𝐚𝐧𝐝 𝐓𝐞𝐥𝐞𝐜𝐨𝐦 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬** together with Prof. Chuan Heng Foh (University of Surrey, UK) and Prof. Mahdi Boloursaz Mashhadi (University of Surrey, UK).
