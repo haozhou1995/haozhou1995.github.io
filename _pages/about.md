@@ -21,7 +21,9 @@ I also received the **2023 IEEE ComSoc CSIM TC Best Journal Paper Award** for my
 
 News and Updates 
 ======
-* 2026 Oct, I was listed among the **Stanford/Elsevier World\'s Top 2% Scientists (2026 Edition)** for single-year citation impact. Based on 2025 citation data, I ranked **2,943rd out of 228,312 researchers worldwide (Top 1.29%)** in the field of **Networking & Telecommunications**.\n\n* 2026 Sep, our paper "**Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis**" is accepted by ***IEEE Wireless Communications Magazine***. This work develops a structured LLM reasoning framework for telecom RCA, enabling evidence-grounded diagnosis through systematic reasoning over diagnostic evidence.
+* 2026 Oct, I was listed among the **Stanford/Elsevier World's Top 2% Scientists (2026 Edition)** for single-year citation impact. Based on 2025 citation data, I ranked **2,943rd out of 228,312 researchers worldwide (Top 1.29%)** in the field of **Networking & Telecommunications**.
+
+* 2026 Sep, our paper "**Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis**" is accepted by ***IEEE Wireless Communications Magazine***. This work develops a structured LLM reasoning framework for telecom RCA, enabling evidence-grounded diagnosis through systematic reasoning over diagnostic evidence.
 
 * 2026 Aug, our paper "**Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach**" is accepted for presentation at ***2026 IEEE Global Communications Conference (GLOBECOM)***. This work proposes a hierarchical LLM-driven framework that integrates global strategic reasoning with real-time UAV navigation and handover control, improving flight safety and system throughput. [here](https://arxiv.org/pdf/2607.18604).
 
